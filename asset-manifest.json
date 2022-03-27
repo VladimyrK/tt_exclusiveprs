@@ -1,13 +1,31 @@
 {
   "files": {
-    "main.css": "/tt_exclusiveprs/static/css/main.069b5fdb.css",
-    "main.js": "/tt_exclusiveprs/static/js/main.337c6de4.js",
+    "main.css": "/tt_exclusiveprs/static/css/main.9a434445.css",
+    "main.js": "/tt_exclusiveprs/static/js/main.59cf0659.js",
+    "static/media/Banner.png": "/tt_exclusiveprs/static/media/Banner.a245eae711deb53b6f13.png",
+    "static/media/slate11.png": "/tt_exclusiveprs/static/media/slate11.7fb1ee832a627c4f35c2.png",
+    "static/media/slate8.png": "/tt_exclusiveprs/static/media/slate8.32ce7d72511901e01f7b.png",
+    "static/media/slate14.png": "/tt_exclusiveprs/static/media/slate14.69cdb4104a96a1240974.png",
+    "static/media/slate2.png": "/tt_exclusiveprs/static/media/slate2.3fb99c3ba6de90dd5eae.png",
+    "static/media/slate10.png": "/tt_exclusiveprs/static/media/slate10.d8fcff219cf6917e7aff.png",
+    "static/media/slate7.png": "/tt_exclusiveprs/static/media/slate7.4aeec53c28e35d48f29a.png",
+    "static/media/slate12.png": "/tt_exclusiveprs/static/media/slate12.fda400f6ac623b3cb36b.png",
+    "static/media/slate6.png": "/tt_exclusiveprs/static/media/slate6.e33924442365a5851976.png",
+    "static/media/slate15.png": "/tt_exclusiveprs/static/media/slate15.038aaf690f36d05e06fd.png",
+    "static/media/slate4.png": "/tt_exclusiveprs/static/media/slate4.25d13d6b5924f572d5ec.png",
+    "static/media/slate3.png": "/tt_exclusiveprs/static/media/slate3.10c79d79bf3ff3f373fe.png",
+    "static/media/slate9.png": "/tt_exclusiveprs/static/media/slate9.dce72059a667272bd93d.png",
+    "static/media/slate13.png": "/tt_exclusiveprs/static/media/slate13.ea7e748640632c73e6cd.png",
+    "static/media/slate0.png": "/tt_exclusiveprs/static/media/slate0.bb5172bf48ef81bf8bd5.png",
+    "static/media/slate1.png": "/tt_exclusiveprs/static/media/slate1.e7da7514c1a452752780.png",
+    "static/media/slate5.png": "/tt_exclusiveprs/static/media/slate5.d6e1af4de46a1500aa0b.png",
+    "static/media/Ellipse245.svg": "/tt_exclusiveprs/static/media/Ellipse245.d053a67b4ea943209ff5.svg",
     "index.html": "/tt_exclusiveprs/index.html",
-    "main.069b5fdb.css.map": "/tt_exclusiveprs/static/css/main.069b5fdb.css.map",
-    "main.337c6de4.js.map": "/tt_exclusiveprs/static/js/main.337c6de4.js.map"
+    "main.9a434445.css.map": "/tt_exclusiveprs/static/css/main.9a434445.css.map",
+    "main.59cf0659.js.map": "/tt_exclusiveprs/static/js/main.59cf0659.js.map"
   },
   "entrypoints": [
-    "static/css/main.069b5fdb.css",
-    "static/js/main.337c6de4.js"
+    "static/css/main.9a434445.css",
+    "static/js/main.59cf0659.js"
   ]
 }
