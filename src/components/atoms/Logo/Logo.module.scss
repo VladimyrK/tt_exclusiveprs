@@ -1,0 +1,13 @@
+@import '../../../scss/utils/variables';
+@import '../../../scss/utils/mixins';
+
+.logo {
+  @include reset-button();
+
+  width: calc(var(--subline) * 7);
+  height: calc(var(--subline) * 7);
+  border-radius: $radiusRound;
+
+  background-image: url(./Ellipse245.svg);
+  background-color: var(--color-D0-2);
+}

@@ -1,0 +1,25 @@
+@import '../../../scss/utils/variables';
+@import '../../../scss/utils/mixins';
+
+.button {
+  @include reset-button();
+  padding: calc(var(--subline) * 2) calc(var(--subline) * 3);
+  width: calc(var(--subline) * 36);
+  height: calc(var(--subline) * 11);
+  border-radius: var(--border-radius-very-big);
+
+  font-weight: 700;
+  font-size: rem(12);
+  line-height: rem(15);
+
+  color: var(--color-L0-3);
+  background: var(--color-D1-tint-a);
+  opacity: 1;
+  transition: opacity 0.3s $time-cubic-bezier;
+
+  @media (hover: hover) {
+    &:hover {
+      opacity: 0.8;
+    }
+  }
+}

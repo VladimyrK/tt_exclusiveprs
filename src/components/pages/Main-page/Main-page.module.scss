@@ -1,0 +1,24 @@
+@import '../../../scss/utils/variables';
+@import '../../../scss/utils/mixins';
+
+.cardListWrap {
+  @include container(1371px);
+  @include dflex(stretch, wrap, center, column);
+
+  background-image: url(./Banner.png);
+  background-attachment: fixed;
+  background-position: center top;
+  background-repeat: no-repeat;
+}
+.cardList {
+  margin-top: calc(var(--subline) * 93);
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0;
+}
+.buttonLoadMore {
+  display: block;
+
+  margin-left: auto;
+  margin-right: auto;
+}

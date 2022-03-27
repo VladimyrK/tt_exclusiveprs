@@ -1,0 +1,14 @@
+@for $i from 0 to 16 {
+  .card#{$i} {
+    background: var(--color-G5), url('./images/slate#{$i}.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+}
+.cardList {
+  display: grid;
+  grid-template-columns: repeat(4, calc(var(--column4) - var(--subline) * 2));
+  grid-gap: calc(var(--subline) * 2);
+
+  list-style: none;
+}

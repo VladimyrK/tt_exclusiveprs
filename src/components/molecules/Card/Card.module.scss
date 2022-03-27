@@ -1,0 +1,32 @@
+@import '../../../scss/utils/variables';
+@import '../../../scss/utils/mixins';
+
+.card {
+  padding: calc(var(--subline) * 2);
+
+  border-radius: var(--border-radius);
+
+  opacity: 1;
+  transition: opacity 0.3s $time-cubic-bezier;
+
+  @media (hover: hover) {
+    &:hover {
+      opacity: 0.8;
+    }
+  }
+}
+.cardContent {
+  margin-top: calc(var(--subline) * 5);
+  padding-top: calc(var(--subline) * 4);
+}
+.text {
+  margin: 0;
+  font-size: rem(12);
+  line-height: rem(20);
+  font-weight: 300;
+  color: var(--color-W0);
+}
+.title {
+  @include extra-title-h5;
+  margin: 0;
+}
